@@ -2685,7 +2685,7 @@
     (uuid ff08e3fa-c419-4101-acf6-7d150274f530)
     (property "Reference" "J1" (id 0) (at 39.37 100.33 0))
     (property "Value" "USB_B_Micro" (id 1) (at 39.37 102.87 0))
-    (property "Footprint" "usb_footprint:tp4056_USB_Micro-B_Molex_47346-0001_fix" (id 2) (at 43.18 114.3 0)
+    (property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001" (id 2) (at 43.18 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 43.18 114.3 0)
@@ -2801,7 +2801,7 @@
       (reference "D3") (unit 1) (value "MBR1020VL") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/ff08e3fa-c419-4101-acf6-7d150274f530"
-      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "usb_footprint:tp4056_USB_Micro-B_Molex_47346-0001_fix")
+      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex-105017-0001")
     )
     (path "/f5af9e6d-b38e-432e-8453-2d6df2b3d8c9"
       (reference "J2") (unit 1) (value "Conn_01x01_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")

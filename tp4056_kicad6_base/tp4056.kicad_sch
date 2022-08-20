@@ -2087,7 +2087,7 @@
   (symbol (lib_id "power:Earth") (at 161.29 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6cf81304-5a9a-4346-98cf-ebdc3d6cc2d1)
-    (property "Reference" "#PWR?" (id 0) (at 161.29 157.48 0)
+    (property "Reference" "#PWR0122" (id 0) (at 161.29 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (id 1) (at 161.29 154.94 0)
@@ -2217,7 +2217,7 @@
   (symbol (lib_id "power:VBUS") (at 175.26 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 89732b9c-d18e-4ab2-8db9-768b9bb052e6)
-    (property "Reference" "#PWR?" (id 0) (at 175.26 78.74 0)
+    (property "Reference" "#PWR0121" (id 0) (at 175.26 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 175.26 71.3542 0))
@@ -2336,7 +2336,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Male") (at 167.64 142.24 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 987e29f2-3f08-41f0-9703-e9389e408646)
-    (property "Reference" "J?" (id 0) (at 167.005 146.016 0))
+    (property "Reference" "J10" (id 0) (at 167.005 146.016 0))
     (property "Value" "Conn_01x02_Male" (id 1) (at 171.45 143.51 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 167.64 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2599,7 +2599,7 @@
   (symbol (lib_id "power:VBUS") (at 62.23 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f30262f4-97a0-412f-adbd-a96dac14ce7c)
-    (property "Reference" "#PWR?" (id 0) (at 62.23 106.68 0)
+    (property "Reference" "#PWR0116" (id 0) (at 62.23 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VBUS" (id 1) (at 62.23 99.2942 0))
@@ -2752,6 +2752,9 @@
     (path "/feda7d43-c72f-4ede-80cd-b4eb08739a6a"
       (reference "#PWR0115") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/f30262f4-97a0-412f-adbd-a96dac14ce7c"
+      (reference "#PWR0116") (unit 1) (value "VBUS") (footprint "")
+    )
     (path "/cc76a413-0301-44c6-a985-e91d6961a6b5"
       (reference "#PWR0117") (unit 1) (value "Earth") (footprint "")
     )
@@ -2764,14 +2767,11 @@
     (path "/8b7a4901-824d-4280-aa26-eb66ad41318e"
       (reference "#PWR0120") (unit 1) (value "Earth") (footprint "")
     )
-    (path "/6cf81304-5a9a-4346-98cf-ebdc3d6cc2d1"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
     (path "/89732b9c-d18e-4ab2-8db9-768b9bb052e6"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+      (reference "#PWR0121") (unit 1) (value "VBUS") (footprint "")
     )
-    (path "/f30262f4-97a0-412f-adbd-a96dac14ce7c"
-      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    (path "/6cf81304-5a9a-4346-98cf-ebdc3d6cc2d1"
+      (reference "#PWR0122") (unit 1) (value "Earth") (footprint "")
     )
     (path "/7870a9db-0a4b-4ce4-a426-dcf645359822"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
@@ -2828,7 +2828,7 @@
       (reference "J9") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical")
     )
     (path "/987e29f2-3f08-41f0-9703-e9389e408646"
-      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J10") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/be2f32b9-4a16-4a93-bf7d-d4847547881d"
       (reference "Q1") (unit 1) (value "FDN340P") (footprint "Package_TO_SOT_SMD:SOT-23")

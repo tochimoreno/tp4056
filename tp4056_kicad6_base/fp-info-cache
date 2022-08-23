@@ -1,1149 +1,701 @@
-269747002933698
-Diode_SMD_AKL
-D_0201_0603Metric
-Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), Alternate KiCad Library
-diode 0201
+165890761050387
+Capacitor_SMD
+CP_Elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
+Capacitor Electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_3x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x3
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.3
+SMD capacitor, aluminum electrolytic, Vishay, 4.0x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.4
+SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 4.0x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.4
+SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.9
+SMD capacitor, aluminum electrolytic, Panasonic B6, 5.0x5.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x4.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.9
+SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.2
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.3
+SMD capacitor, aluminum electrolytic, Cornell Dubilier, 6.3x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4_Nichicon
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.9
+SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x9.9
+SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.2
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x6.2mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.5
+SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 8.0x6.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.9
+SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10.5
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x11.9
+SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.9
+SMD capacitor, aluminum electrolytic, Panasonic F8, 10.0x7.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.5
+SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.6
+SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x14.3
+SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x22
+SMD capacitor, aluminum electrolytic, Vishay 1621, 16.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x22
+SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+C_0201_0603Metric
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
 0
 4
 2
-Diode_SMD_AKL
-D_0201_0603Metric_TVS
-Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 0201 TVS
+Capacitor_SMD
+C_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 4
 2
-Diode_SMD_AKL
-D_0402_1005Metric
-Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 0402
+Capacitor_SMD
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_0402_1005Metric_TVS
-Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 0402 TVS
+Capacitor_SMD
+C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_0603_1608Metric
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 0603
+Capacitor_SMD
+C_0504_1310Metric
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_0603_1608Metric_Castellated
-Diode SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 0603 castellated
+Capacitor_SMD
+C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_0603_1608Metric_Pad1.05x0.95mm
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 0603 handsolder
+Capacitor_SMD
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 0603 handsolder
+Capacitor_SMD
+C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_0603_1608Metric_TVS
-Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 0603 TVS
+Capacitor_SMD
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_0805_2012Metric
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
-diode 0805
+Capacitor_SMD
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_0805_2012Metric_Castellated
-Diode SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
-diode 0805 castellated
-0
-2
-2
-Diode_SMD_AKL
-D_0805_2012Metric_Pad1.15x1.40mm
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
-diode 0805 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
-diode 0805 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_0805_2012Metric_TVS
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Alternate KiCad Library
-diode 0805 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_0805_2012Metric_Zener
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), Zener, Alternate KiCad Library
-diode 0805 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_01005_0402Metric
-Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), Alternate KiCad Library
-diode 01005
+Capacitor_SMD
+C_01005_0402Metric
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor
 0
 4
 2
-Diode_SMD_AKL
-D_01005_0402Metric_TVS
-Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 01005 TVS
+Capacitor_SMD
+C_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 4
 2
-Diode_SMD_AKL
-D_1206_3216Metric
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1206
+Capacitor_SMD
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1206_3216Metric_Castellated
-Diode SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1206 castellated
+Capacitor_SMD
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1206_3216Metric_Pad1.42x1.75mm
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1206 handsolder
+Capacitor_SMD
+C_1210_3225Metric
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1206 handsolder
+Capacitor_SMD
+C_1210_3225Metric_Pad1.33x2.70mm_HandSolder
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1206_3216Metric_TVS
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 1206 TVS
+Capacitor_SMD
+C_1812_4532Metric
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1206_3216Metric_Zener
-Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Zener, Alternate KiCad Library
-diode 1206 Zener
+Capacitor_SMD
+C_1812_4532Metric_Pad1.57x3.40mm_HandSolder
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1210
+Capacitor_SMD
+C_1825_4564Metric
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric_Castellated
-Diode SMD 1210 (3225 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1210 castellated
+Capacitor_SMD
+C_1825_4564Metric_Pad1.57x6.80mm_HandSolder
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric_Pad1.42x2.65mm
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1210 handsolder
+Capacitor_SMD
+C_2220_5650Metric
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 1210 handsolder
+Capacitor_SMD
+C_2220_5650Metric_Pad1.97x5.40mm_HandSolder
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric_TVS
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 1210 TVS
+Capacitor_SMD
+C_2225_5664Metric
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1210_3225Metric_Zener
-Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Zener, Alternate KiCad Library
-diode 1210 Zener
+Capacitor_SMD
+C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
-diode 1806
+Capacitor_SMD
+C_3640_9110Metric
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric_Castellated
-Diode SMD 1806 (4516 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
-diode 1806 castellated
+Capacitor_SMD
+C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric_Pad1.57x1.80mm
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
-diode 1806 handsolder
+Capacitor_SMD
+C_Elec_3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric_Pad1.57x1.80mm_HandSolder
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Alternate KiCad Library
-diode 1806 handsolder
+Capacitor_SMD
+C_Elec_4x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric_TVS
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 1806 TVS
+Capacitor_SMD
+C_Elec_4x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.8mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1806_4516Metric_Zener
-Diode SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), Zener, Alternate KiCad Library
-diode 1806 Zener
+Capacitor_SMD
+C_Elec_5x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.4mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
-diode 1812
+Capacitor_SMD
+C_Elec_5x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric_Castellated
-Diode SMD 1812 (4532 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
-diode 1812 castellated
+Capacitor_SMD
+C_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric_Pad1.30x3.40mm
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
-diode 1812 handsolder
+Capacitor_SMD
+C_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric_Pad1.30x3.40mm_HandSolder
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Alternate KiCad Library
-diode 1812 handsolder
+Capacitor_SMD
+C_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric_TVS
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 1812 TVS
+Capacitor_SMD
+C_Elec_8x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x5.4mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_1812_4532Metric_Zener
-Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), Zener, Alternate KiCad Library
-diode 1812 Zener
+Capacitor_SMD
+C_Elec_8x6.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2010
+Capacitor_SMD
+C_Elec_8x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x10.2mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric_Castellated
-Diode SMD 2010 (5025 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2010 castellated
+Capacitor_SMD
+C_Elec_10x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
+capacitor electrolyic nonpolar
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric_Pad1.52x2.65mm
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2010 handsolder
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-A
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric_Pad1.52x2.65mm_HandSolder
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2010 handsolder
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-B
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric_TVS
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 2010 TVS
+Capacitor_SMD
+C_Trimmer_Murata_TZC3
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZC3
 0
 2
 2
-Diode_SMD_AKL
-D_2010_5025Metric_Zener
-Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Zener, Alternate KiCad Library
-diode 2010 Zener
+Capacitor_SMD
+C_Trimmer_Murata_TZR1
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZR1
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 2114
+Capacitor_SMD
+C_Trimmer_Murata_TZW4
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZW4
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric_Castellated
-Diode SMD 2114 (3652 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 2114 castellated
+Capacitor_SMD
+C_Trimmer_Murata_TZY2
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZY2
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric_Pad1.85x3.75mm
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 2114 handsolder
+Capacitor_SMD
+C_Trimmer_Sprague-Goodman_SGC3
+trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
+ Sprague Goodman SGC3
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 2114 handsolder
+Capacitor_SMD
+C_Trimmer_Voltronics_JN
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JN
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric_TVS
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 2114 TVS
+Capacitor_SMD
+C_Trimmer_Voltronics_JQ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JQ
 0
 2
 2
-Diode_SMD_AKL
-D_2114_3652Metric_Zener
-Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Zener, Alternate KiCad Library
-diode 2114 Zener
+Capacitor_SMD
+C_Trimmer_Voltronics_JR
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
 0
 2
 2
-Diode_SMD_AKL
-D_2512_6332Metric
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2512
+Capacitor_SMD
+C_Trimmer_Voltronics_JV
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JV
 0
 2
 2
-Diode_SMD_AKL
-D_2512_6332Metric_Castellated
-Diode SMD 2512 (6332 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2512 castellated
+Capacitor_SMD
+C_Trimmer_Voltronics_JZ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
 0
 2
 2
-Diode_SMD_AKL
-D_2512_6332Metric_Pad1.52x3.35mm
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2512 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Alternate KiCad Library
-diode 2512 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_2512_6332Metric_TVS
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 2512 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_2512_6332Metric_Zener
-Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), Zener, Alternate KiCad Library
-diode 2512 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
-diode 2816
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric_Castellated
-Diode SMD 2816 (7142 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
-diode 2816 castellated
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric_Pad3.20x4.45mm
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
-diode 2816 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric_Pad3.20x4.45mm_HandSolder
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Alternate KiCad Library
-diode 2816 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric_TVS
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 2816 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_2816_7142Metric_Zener
-Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), Zener, Alternate KiCad Library
-diode 2816 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 3220
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric_Castellated
-Diode SMD 3220 (8050 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 3220 castellated
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric_Pad2.65x5.15mm
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 3220 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric_Pad2.65x5.15mm_HandSolder
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Alternate KiCad Library
-diode 3220 handsolder
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric_TVS
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Bidirectional zener or TVS, Alternate KiCad Library
-diode 3220 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_3220_8050Metric_Zener
-Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), Zener, Alternate KiCad Library
-diode 3220 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_MELF
-Diode, MELF,,, Alternate KiCad Library
-Diode MELF 
-0
-2
-2
-Diode_SMD_AKL
-D_MELF-RM10_Universal_Handsoldering
-Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,, Alternate KiCad Library
-Diode Universal MELF RM10 Handsoldering SMD Thruhole 
-0
-2
-2
-Diode_SMD_AKL
-D_MELF_BigPads
-Diode MELF Handsoldering, Alternate KiCad Library
-Diode MELF Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_MELF_Handsoldering
-Diode MELF Handsoldering, Alternate KiCad Library
-Diode MELF Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_MELF_TVS
-Diode, MELF, Bidirerctional zener or TVS, Alternate KiCad Library
-Diode MELF TVS
-0
-2
-2
-Diode_SMD_AKL
-D_MELF_Zener
-Diode, MELF, Zener, Alternate KiCad Library
-Diode MELF Zener
-0
-2
-2
-Diode_SMD_AKL
-D_MicroMELF
-Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf, Alternate KiCad Library
-MicroMELF Diode
-0
-2
-2
-Diode_SMD_AKL
-D_MicroMELF_BigPads
-Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf, Alternate KiCad Library
-MicroMELF Diode
-0
-2
-2
-Diode_SMD_AKL
-D_MicroMELF_Handsoldering
-Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf, Alternate KiCad Library
-MicroMELF Diode
-0
-2
-2
-Diode_SMD_AKL
-D_MicroMELF_TVS
-Diode, MicroMELF, Bidirectional zener or TVS, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf, Alternate KiCad Library
-MicroMELF Diode TVS
-0
-2
-2
-Diode_SMD_AKL
-D_MicroMELF_Zener
-Diode, MicroMELF, Zener, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf, Alternate KiCad Library
-MicroMELF Diode Zener
-0
-2
-2
-Diode_SMD_AKL
-D_MicroSMP
-MicroSMP (DO-219AD) Diode SMD Footprint, https://www.tme.eu/Document/bb412acf78155f7171e3c753949ff078/mse1p.pdf, Alternate KiCAD Library
-MicroSMP DO-219AD
-0
-2
-2
-Diode_SMD_AKL
-D_MiniMELF
-Diode Mini-MELF, Alternate KiCad Library
-Diode Mini-MELF
-0
-2
-2
-Diode_SMD_AKL
-D_MiniMELF_BigPads
-Diode Mini-MELF Handsoldering, Alternate KiCad Library
-Diode Mini-MELF Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_MiniMELF_Handsoldering
-Diode Mini-MELF Handsoldering, Alternate KiCad Library
-Diode Mini-MELF Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_MiniMELF_TVS
-Diode Mini-MELF, Bidirectional zener or TVS, Alternate KiCad Library
-Diode Mini-MELF TVS
-0
-2
-2
-Diode_SMD_AKL
-D_MiniMELF_Zener
-Diode Mini-MELF, Zener, Alternate KiCad Library
-Diode Mini-MELF Zener
-0
-2
-2
-Diode_SMD_AKL
-D_PowerDI-5
-PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf, Alternate KiCad Library
-PowerDI diode vishay
-0
-3
-2
-Diode_SMD_AKL
-D_PowerDI-123
-http://www.diodes.com/_files/datasheets/ds30497.pdf, Alternate KiCad Library
-PowerDI diode vishay
-0
-2
-2
-Diode_SMD_AKL
-D_Powermite2_AK
-Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341), Alternate KiCad Library
-PowerMite2
-0
-2
-2
-Diode_SMD_AKL
-D_Powermite2_KA
-Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341), Alternate KiCad Library
-PowerMite2
-0
-2
-2
-Diode_SMD_AKL
-D_Powermite3
-Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340), Alternate KiCad Library
-PowerMite3
-0
-3
-3
-Diode_SMD_AKL
-D_Powermite_AK
-Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF), Alternate KiCad Library
-Powermite
-0
-2
-2
-Diode_SMD_AKL
-D_Powermite_KA
-Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF), Alternate KiCad Library
-Powermite
-0
-2
-2
-Diode_SMD_AKL
-D_QFN_3.3x3.3mm_P0.65mm
-QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf), Alternate KiCad Library
-diode qfn 3.3
-0
-3
-2
-Diode_SMD_AKL
-D_SC-80
-JEITA SC-80, Alternate KiCad Library
-SC-80
-0
-2
-2
-Diode_SMD_AKL
-D_SC-80_BigPads
-JEITA SC-80, Alternate KiCad Library
-SC-80
-0
-2
-2
-Diode_SMD_AKL
-D_SC-80_HandSoldering
-JEITA SC-80, Alternate KiCad Library
-SC-80
-0
-2
-2
-Diode_SMD_AKL
-D_SC-80_TVS
-JEITA SC-80, Bidirectional zener or TVS, Alternate KiCad Library
-SC-80 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SC-80_Zener
-JEITA SC-80, Zener, Alternate KiCad Library
-SC-80 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SMA
-Diode SMA (DO-214AC), Alternate KiCad Library
-Diode SMA (DO-214AC)
-0
-2
-2
-Diode_SMD_AKL
-D_SMA-SMB_Universal
-Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering, Alternate KiCad Library
-Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
-0
-2
-2
-Diode_SMD_AKL
-D_SMA-SMB_Universal_Handsoldering
-Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering, Alternate KiCad Library
-Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
-0
-2
-2
-Diode_SMD_AKL
-D_SMAFL
-SMA Flat Lead Diode Package, https://www.centralsemi.com/PDFS/CASE/SMAFLPD.PDF, Alternate KiCAD Library
-SMAFL SMA flat lead diode
-0
-2
-2
-Diode_SMD_AKL
-D_SMA_BigPads
-Diode SMA (DO-214AC) Handsoldering, Alternate KiCad Library
-Diode SMA (DO-214AC) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMA_Handsoldering
-Diode SMA (DO-214AC) Handsoldering, Alternate KiCad Library
-Diode SMA (DO-214AC) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMA_TVS
-Diode SMA (DO-214AC), Bidirectional zener or TVS, Alternate KiCad Library
-Diode SMA (DO-214AC) TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SMA_Zener
-Diode SMA (DO-214AC), Zener, Alternate KiCad Library
-Diode SMA (DO-214AC) Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SMB
-Diode SMB (DO-214AA), Alternate KiCad Library
-Diode SMB (DO-214AA)
-0
-2
-2
-Diode_SMD_AKL
-D_SMB-SMC_Universal
-Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering, Alternate KiCad Library
-Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
-0
-2
-2
-Diode_SMD_AKL
-D_SMB-SMC_Universal_Handsoldering
-Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering, Alternate KiCad Library
-Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
-0
-2
-2
-Diode_SMD_AKL
-D_SMBFL
-SMB Flat Lead Package, https://www.centralsemi.com/PDFS/CASE/SMBFLPD.PDF, Alternate KiCAD Library
-SMBFL SMB flat lead diode
-0
-2
-2
-Diode_SMD_AKL
-D_SMB_BigPads
-Diode SMB (DO-214AA) Handsoldering, Alternate KiCad Library
-Diode SMB (DO-214AA) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMB_Handsoldering
-Diode SMB (DO-214AA) Handsoldering, Alternate KiCad Library
-Diode SMB (DO-214AA) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMB_Modified
-Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf), Alternate KiCad Library
-Diode SMB (DO-214AA)
-0
-3
-3
-Diode_SMD_AKL
-D_SMB_TVS
-Diode SMB (DO-214AA), Bidirectional zener or TVS, Alternate KiCad Library
-Diode SMB (DO-214AA) TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SMB_Zener
-Diode SMB (DO-214AA), Zener, Alternate KiCad Library
-Diode SMB (DO-214AA) Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SMC
-Diode SMC (DO-214AB), Alternate KiCad Library
-Diode SMC (DO-214AB)
-0
-2
-2
-Diode_SMD_AKL
-D_SMC-RM10_Universal
-Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole, Alternate KiCad Library
-Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
-0
-2
-2
-Diode_SMD_AKL
-D_SMC-RM10_Universal_Handsoldering
-Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole, Alternate KiCad Library
-Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
-0
-2
-2
-Diode_SMD_AKL
-D_SMC_BigPads
-Diode SMC (DO-214AB) Handsoldering, Alternate KiCad Library
-Diode SMC (DO-214AB) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMC_Handsoldering
-Diode SMC (DO-214AB) Handsoldering, Alternate KiCad Library
-Diode SMC (DO-214AB) Handsoldering
-0
-2
-2
-Diode_SMD_AKL
-D_SMC_TVS
-Diode SMC (DO-214AB), Bidirectional zener or TVS, Alternate KiCad Library
-Diode SMC (DO-214AB) TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SMC_Zener
-Diode SMC (DO-214AB), Zener, Alternate KiCad Library
-Diode SMC (DO-214AB) Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SMF
-Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf, Alternate KiCad Library
-Diode SMF (DO-214AB)
-0
-2
-2
-Diode_SMD_AKL
-D_SMF_TVS
-Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf, Bidirectional zener or TVS, Alternate KiCad Library
-Diode SMF (DO-214AB) TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SMF_Zener
-Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf, Zener, Alternate KiCad Library
-Diode SMF (DO-214AB) Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SMP
-SMP Diode Package (DO220AA), https://www.tme.eu/Document/aa5a89b017df4ae26aca1b4f51120387/au1p.pdf, Alternate KiCAD Library
-SMP diode DO220AA
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-110
-SOD-110, Alternate KiCad Library
-SOD-110
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-110_Zener
-SOD-110, Zener, Alternate KiCad Library
-SOD-110 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123
-SOD-123, Alternate KiCad Library
-SOD-123
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123F
-D_SOD-123F, Alternate KiCad Library
-D_SOD-123F
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123F_TVS
-D_SOD-123F, Bidirectional zener or TVS, Alternate KiCad Library
-D_SOD-123F TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123F_Zener
-D_SOD-123F, Zener, Alternate KiCad Library
-D_SOD-123F Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123_TVS
-SOD-123, Bidirectional zener or TVS, Alternate KiCad Library
-SOD-123 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-123_Zener
-SOD-123, Zener, Alternate KiCad Library
-SOD-123 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-128
-D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf, Alternate KiCad Library
-D_SOD-128
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-128_TVS
-D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf, Bidirectional zener or TVS, Alternate KiCad Library
-D_SOD-128 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-128_Zener
-D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf, Zener, Alternate KiCad Library
-D_SOD-128 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323
-SOD-323, Alternate KiCad Library
-SOD-323
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323F
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf, Alternate KiCad Library
-SOD-323F
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323F_TVS
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf, Bidirectional zener or TVS, Alternate KiCad Library
-SOD-323F TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323F_Zener
-SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf, Zener, Alternate KiCad Library
-SOD-323F Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323_BigPads
-SOD-323, Alternate KiCad Library
-SOD-323
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323_HandSoldering
-SOD-323, Alternate KiCad Library
-SOD-323
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323_TVS
-SOD-323, Bidirectional zener or TVS, Alternate KiCad Library
-SOD-323
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-323_Zener
-SOD-323, Zener, Alternate KiCad Library
-SOD-323 Zener
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-523
-http://www.diodes.com/datasheets/ap02001.pdf p.144, Alternate KiCad Library
-Diode SOD523
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-523_TVS
-http://www.diodes.com/datasheets/ap02001.pdf p.144, Bidirectional zener or TVS, Alternate KiCad Library
-Diode SOD523 TVS
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-882_DFN1006-2
-SOD-882 (DFN1006-2) Diode package, https://assets.nexperia.com/documents/package-information/SOD882.pdf, Alternate KiCAD Library
-SOD-882 DFN1006-2 diode smd
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-882_DFN1006-2_TVS
-SOD-882 (DFN1006-2) Diode package, https://assets.nexperia.com/documents/package-information/SOD882.pdf, Alternate KiCAD Library
-SOD-882 DFN1006-2 diode smd
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-923
-https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4, Alternate KiCad Library
-Diode SOD923
-0
-2
-2
-Diode_SMD_AKL
-D_SOD-923_TVS
-https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4, Bidirectional zener or TVS, Alternate KiCad Library
-Diode SOD923, Alternate KiCad Library
-0
-2
-2
-Diode_SMD_AKL
-D_TUMD2
-ROHM - TUMD2, Alternate KiCad Library
-TUMD2
-0
-2
-2
-Diode_SMD_AKL
-Diode_Bridge_Bourns_CD-DF4xxS
-8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf, Alternate KiCad Library
-Surface Mount Bridge Rectifier Diode
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Diotec_ABS
-SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf, Alternate KiCad Library
-ABS MBLS
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
-SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf, Alternate KiCad Library
-Diotec MicroDil diode bridge
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Diotec_SO-DIL-Slim
-SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf, Alternate KiCad Library
-DFS SO-DIL Slim
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_MBF
-SMD Diode Bridge, Diodes MBF, https://www.diodes.com/assets/Package-Files/MBF.pdf, Alternate KiCAD Library
-SMD diode bridge mbf
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_MBS
-SMD Diode Bridge, Diodes MBS, https://www.diodes.com/assets/Package-Files/MBS.pdf, Alternate KiCAD Library
-SMD diode bridge rectifier mbs
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Vishay_DFS
-SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf, Alternate KiCad Library
-DFS
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Vishay_DFSFlat
-SMD diode bridge Low Profile DFS "Flat", see http://www.vishay.com/docs/88874/dfl15005.pdf, Alternate KiCad Library
-DFS
-0
-4
-4
-Diode_SMD_AKL
-Diode_Bridge_Vishay_MBLS
-SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf, Alternate KiCad Library
-DFS
-0
-4
-4

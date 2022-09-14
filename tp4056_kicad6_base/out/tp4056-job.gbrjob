@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.7-f9a2dced07~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-09-07T10:58:27-03:00"
+    "CreationDate": "2022-09-14T12:05:51-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -49,6 +49,11 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "tp4056-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "tp4056-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
@@ -61,6 +66,11 @@
     {
       "Path": "tp4056-User_Drawings.gbr",
       "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "tp4056-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
   ],
